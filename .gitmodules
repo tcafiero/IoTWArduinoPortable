@@ -1,0 +1,15 @@
+[submodule "sketchbook/libraries"]
+	path = sketchbook/libraries
+	url = https://github.com/tcafiero/IoTWArduinoLibraries.git
+[submodule "sketchbook/hardware/IoThingsWare/nrf52"]
+	path = sketchbook/hardware/IoThingsWare/nrf52
+	url = https://github.com/tcafiero/nrf52.git
+[submodule "sketchbook/Dolphin"]
+	path = sketchbook/Dolphin
+	url = https://github.com/tcafiero/Dolphin.git
+[submodule "sketchbook/MoistureBeacon"]
+	path = sketchbook/MoistureBeacon
+	url = https://github.com/tcafiero/MoistureBeacon.git
+[submodule "sketchbook/ttn-abp-nrf52TV"]
+	path = sketchbook/ttn-abp-nrf52TV
+	url = https://github.com/tcafiero/ttn-abp-nrf52TV.git
