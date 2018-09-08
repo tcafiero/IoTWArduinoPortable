@@ -13,3 +13,6 @@
 [submodule "sketchbook/ttn-abp-nrf52TV"]
 	path = sketchbook/ttn-abp-nrf52TV
 	url = https://github.com/tcafiero/ttn-abp-nrf52TV.git
+[submodule "sketchbook/BLEDeviceTerminal"]
+	path = sketchbook/BLEDeviceTerminal
+	url = ../BLEDeviceTerminal.git
