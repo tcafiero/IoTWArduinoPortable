@@ -16,3 +16,6 @@
 [submodule "sketchbook/BLEDeviceTerminal"]
 	path = sketchbook/BLEDeviceTerminal
 	url = ../BLEDeviceTerminal.git
+[submodule "sketchbook/TestSensorsFusion"]
+	path = sketchbook/TestSensorsFusion
+	url = ../TestSensorsFusion.git
