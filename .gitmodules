@@ -19,3 +19,6 @@
 [submodule "sketchbook/TestSensorsFusion"]
 	path = sketchbook/TestSensorsFusion
 	url = ../TestSensorsFusion.git
+[submodule "sketchbook/GolfToken"]
+	path = sketchbook/GolfToken
+	url = ../GolfToken.git
